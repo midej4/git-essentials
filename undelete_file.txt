@@ -1,0 +1,1 @@
+To undelete a file, after unstaging it. The syntx is git checkout -- filename
