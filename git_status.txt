@@ -1,0 +1,1 @@
+This shows what files has been changed, deleted, added or renamed. It also shows which files are currently staged to commit.
