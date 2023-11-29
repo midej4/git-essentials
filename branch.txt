@@ -1,0 +1,9 @@
+To create a new branch. Syntax is git checkout -b branchname.
+Add the file
+commit the file
+syntax: git push origin branchname
+To merge one branch to another branch:
+Make sure you are up to date with your target branch
+syntax: git pull origin targetBranchName
+syntax: git merge branchname
+syntax: git push origin targetBranchName
