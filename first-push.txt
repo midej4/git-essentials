@@ -1,0 +1,1 @@
+push is to get code off our computer onto Github. There are 4 stages to doing this: Unstaged work, stage work, commit work push work
